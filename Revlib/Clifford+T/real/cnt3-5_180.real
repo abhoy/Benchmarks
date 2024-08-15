@@ -1,0 +1,490 @@
+.version 1.0
+.numvars 16
+.variables x0 x1 x2 x3 x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x14 x15
+.begin
+h x0
+p x1
+p x2
+p x0
+t2 x2 x1
+t2 x0 x2
+t2 x1 x0
+p+ x2
+t2 x1 x2
+p+ x1
+p+ x2
+p x0
+t2 x0 x2
+t2 x1 x0
+t2 x2 x1
+h x0
+h x3
+p x1
+p x4
+p x3
+t2 x4 x1
+t2 x3 x4
+t2 x1 x3
+p+ x4
+t2 x1 x4
+p+ x1
+p+ x4
+p x3
+t2 x3 x4
+t2 x1 x3
+t2 x4 x1
+h x3
+h x4
+p x0
+p x2
+p x4
+t2 x2 x0
+t2 x4 x2
+t2 x0 x4
+p+ x2
+t2 x0 x2
+p+ x0
+p+ x2
+p x4
+t2 x4 x2
+t2 x0 x4
+t2 x2 x0
+h x4
+h x3
+p x1
+p x4
+p x3
+t2 x4 x1
+t2 x3 x4
+t2 x1 x3
+p+ x4
+t2 x1 x4
+p+ x1
+p+ x4
+p x3
+t2 x3 x4
+t2 x1 x3
+t2 x4 x1
+h x3
+h x4
+p x0
+p x2
+p x4
+t2 x2 x0
+t2 x4 x2
+t2 x0 x4
+p+ x2
+t2 x0 x2
+p+ x0
+p+ x2
+p x4
+t2 x4 x2
+t2 x0 x4
+t2 x2 x0
+h x4
+h x2
+p x0
+p x1
+p x2
+t2 x1 x0
+t2 x2 x1
+t2 x0 x2
+p+ x1
+t2 x0 x1
+p+ x0
+p+ x1
+p x2
+t2 x2 x1
+t2 x0 x2
+t2 x1 x0
+h x2
+t2 x1 x0
+h x4
+p x3
+p x5
+p x4
+t2 x5 x3
+t2 x4 x5
+t2 x3 x4
+p+ x5
+t2 x3 x5
+p+ x3
+p+ x5
+p x4
+t2 x4 x5
+t2 x3 x4
+t2 x5 x3
+h x4
+h x6
+p x3
+p x0
+p x6
+t2 x0 x3
+t2 x6 x0
+t2 x3 x6
+p+ x0
+t2 x3 x0
+p+ x3
+p+ x0
+p x6
+t2 x6 x0
+t2 x3 x6
+t2 x0 x3
+h x6
+h x0
+p x4
+p x5
+p x0
+t2 x5 x4
+t2 x0 x5
+t2 x4 x0
+p+ x5
+t2 x4 x5
+p+ x4
+p+ x5
+p x0
+t2 x0 x5
+t2 x4 x0
+t2 x5 x4
+h x0
+h x6
+p x3
+p x0
+p x6
+t2 x0 x3
+t2 x6 x0
+t2 x3 x6
+p+ x0
+t2 x3 x0
+p+ x3
+p+ x0
+p x6
+t2 x6 x0
+t2 x3 x6
+t2 x0 x3
+h x6
+h x0
+p x4
+p x5
+p x0
+t2 x5 x4
+t2 x0 x5
+t2 x4 x0
+p+ x5
+t2 x4 x5
+p+ x4
+p+ x5
+p x0
+t2 x0 x5
+t2 x4 x0
+t2 x5 x4
+h x0
+h x5
+p x4
+p x3
+p x5
+t2 x3 x4
+t2 x5 x3
+t2 x4 x5
+p+ x3
+t2 x4 x3
+p+ x4
+p+ x3
+p x5
+t2 x5 x3
+t2 x4 x5
+t2 x3 x4
+h x5
+t2 x3 x4
+h x7
+p x6
+p x8
+p x7
+t2 x8 x6
+t2 x7 x8
+t2 x6 x7
+p+ x8
+t2 x6 x8
+p+ x6
+p+ x8
+p x7
+t2 x7 x8
+t2 x6 x7
+t2 x8 x6
+h x7
+h x9
+p x6
+p x0
+p x9
+t2 x0 x6
+t2 x9 x0
+t2 x6 x9
+p+ x0
+t2 x6 x0
+p+ x6
+p+ x0
+p x9
+t2 x9 x0
+t2 x6 x9
+t2 x0 x6
+h x9
+h x0
+p x7
+p x8
+p x0
+t2 x8 x7
+t2 x0 x8
+t2 x7 x0
+p+ x8
+t2 x7 x8
+p+ x7
+p+ x8
+p x0
+t2 x0 x8
+t2 x7 x0
+t2 x8 x7
+h x0
+h x9
+p x6
+p x0
+p x9
+t2 x0 x6
+t2 x9 x0
+t2 x6 x9
+p+ x0
+t2 x6 x0
+p+ x6
+p+ x0
+p x9
+t2 x9 x0
+t2 x6 x9
+t2 x0 x6
+h x9
+h x0
+p x7
+p x8
+p x0
+t2 x8 x7
+t2 x0 x8
+t2 x7 x0
+p+ x8
+t2 x7 x8
+p+ x7
+p+ x8
+p x0
+t2 x0 x8
+t2 x7 x0
+t2 x8 x7
+h x0
+h x8
+p x7
+p x6
+p x8
+t2 x6 x7
+t2 x8 x6
+t2 x7 x8
+p+ x6
+t2 x7 x6
+p+ x7
+p+ x6
+p x8
+t2 x8 x6
+t2 x7 x8
+t2 x6 x7
+h x8
+t2 x6 x7
+h x10
+p x9
+p x11
+p x10
+t2 x11 x9
+t2 x10 x11
+t2 x9 x10
+p+ x11
+t2 x9 x11
+p+ x9
+p+ x11
+p x10
+t2 x10 x11
+t2 x9 x10
+t2 x11 x9
+h x10
+h x12
+p x9
+p x0
+p x12
+t2 x0 x9
+t2 x12 x0
+t2 x9 x12
+p+ x0
+t2 x9 x0
+p+ x9
+p+ x0
+p x12
+t2 x12 x0
+t2 x9 x12
+t2 x0 x9
+h x12
+h x0
+p x10
+p x11
+p x0
+t2 x11 x10
+t2 x0 x11
+t2 x10 x0
+p+ x11
+t2 x10 x11
+p+ x10
+p+ x11
+p x0
+t2 x0 x11
+t2 x10 x0
+t2 x11 x10
+h x0
+h x12
+p x9
+p x0
+p x12
+t2 x0 x9
+t2 x12 x0
+t2 x9 x12
+p+ x0
+t2 x9 x0
+p+ x9
+p+ x0
+p x12
+t2 x12 x0
+t2 x9 x12
+t2 x0 x9
+h x12
+h x0
+p x10
+p x11
+p x0
+t2 x11 x10
+t2 x0 x11
+t2 x10 x0
+p+ x11
+t2 x10 x11
+p+ x10
+p+ x11
+p x0
+t2 x0 x11
+t2 x10 x0
+t2 x11 x10
+h x0
+h x11
+p x10
+p x9
+p x11
+t2 x9 x10
+t2 x11 x9
+t2 x10 x11
+p+ x9
+t2 x10 x9
+p+ x10
+p+ x9
+p x11
+t2 x11 x9
+t2 x10 x11
+t2 x9 x10
+h x11
+t2 x9 x10
+h x13
+p x12
+p x14
+p x13
+t2 x14 x12
+t2 x13 x14
+t2 x12 x13
+p+ x14
+t2 x12 x14
+p+ x12
+p+ x14
+p x13
+t2 x13 x14
+t2 x12 x13
+t2 x14 x12
+h x13
+h x15
+p x12
+p x0
+p x15
+t2 x0 x12
+t2 x15 x0
+t2 x12 x15
+p+ x0
+t2 x12 x0
+p+ x12
+p+ x0
+p x15
+t2 x15 x0
+t2 x12 x15
+t2 x0 x12
+h x15
+h x0
+p x13
+p x14
+p x0
+t2 x14 x13
+t2 x0 x14
+t2 x13 x0
+p+ x14
+t2 x13 x14
+p+ x13
+p+ x14
+p x0
+t2 x0 x14
+t2 x13 x0
+t2 x14 x13
+h x0
+h x15
+p x12
+p x0
+p x15
+t2 x0 x12
+t2 x15 x0
+t2 x12 x15
+p+ x0
+t2 x12 x0
+p+ x12
+p+ x0
+p x15
+t2 x15 x0
+t2 x12 x15
+t2 x0 x12
+h x15
+h x0
+p x13
+p x14
+p x0
+t2 x14 x13
+t2 x0 x14
+t2 x13 x0
+p+ x14
+t2 x13 x14
+p+ x13
+p+ x14
+p x0
+t2 x0 x14
+t2 x13 x0
+t2 x14 x13
+h x0
+h x14
+p x13
+p x12
+p x14
+t2 x12 x13
+t2 x14 x12
+t2 x13 x14
+p+ x12
+t2 x13 x12
+p+ x13
+p+ x12
+p x14
+t2 x14 x12
+t2 x13 x14
+t2 x12 x13
+h x14
+t2 x12 x13
+.end

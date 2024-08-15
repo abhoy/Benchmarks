@@ -1,0 +1,42 @@
+.version 1.0
+.numvars 5
+.variables x0 x1 x2 x3 x4
+.begin
+x x0
+t2 x1 x0
+t2 x2 x3
+h x2
+p x1
+p x3
+p x2
+t2 x3 x1
+t2 x2 x3
+t2 x1 x2
+p+ x3
+t2 x1 x3
+p+ x1
+p+ x3
+p x2
+t2 x2 x3
+t2 x1 x2
+t2 x3 x1
+h x2
+t2 x4 x2
+x x4
+h x4
+p x0
+p x2
+p x4
+t2 x2 x0
+t2 x4 x2
+t2 x0 x4
+p+ x2
+t2 x0 x2
+p+ x0
+p+ x2
+p x4
+t2 x4 x2
+t2 x0 x4
+t2 x2 x0
+h x4
+.end

@@ -1,0 +1,105 @@
+.version 1.0
+.numvars 5
+.variables x0 x1 x2 x3 x4
+.begin
+u3 x0
+u3 x1
+t2 x1 x0
+u1 x0
+u3 x1
+t2 x0 x1
+u3 x1
+t2 x1 x0
+u3 x0
+u3 x1
+u3 x2
+u3 x3
+t2 x3 x2
+u1 x2
+u3 x3
+t2 x2 x3
+u3 x3
+t2 x3 x2
+u3 x2
+u3 x3
+u3 x2
+u3 x3
+t2 x3 x2
+u1 x2
+u3 x3
+t2 x2 x3
+u3 x3
+t2 x3 x2
+u3 x2
+u3 x3
+u3 x1
+u3 x4
+t2 x4 x1
+u1 x1
+u3 x4
+t2 x1 x4
+u3 x4
+t2 x4 x1
+u3 x1
+u3 x4
+u3 x2
+u3 x4
+t2 x4 x2
+u1 x2
+u3 x4
+t2 x2 x4
+u3 x4
+t2 x4 x2
+u3 x2
+u3 x4
+u3 x1
+u3 x0
+t2 x0 x1
+u1 x1
+u3 x0
+t2 x1 x0
+u3 x0
+t2 x0 x1
+u3 x1
+u3 x0
+u3 x3
+u3 x0
+t2 x0 x3
+u1 x3
+u3 x0
+t2 x3 x0
+u3 x0
+t2 x0 x3
+u3 x3
+u3 x0
+u3 x4
+u3 x2
+t2 x2 x4
+u1 x4
+u3 x2
+t2 x4 x2
+u3 x2
+t2 x2 x4
+u3 x4
+u3 x2
+u3 x0
+u3 x4
+t2 x4 x0
+u1 x0
+u3 x4
+t2 x0 x4
+u3 x4
+t2 x4 x0
+u3 x0
+u3 x4
+u3 x1
+u3 x2
+t2 x2 x1
+u1 x1
+u3 x2
+t2 x1 x2
+u3 x2
+t2 x2 x1
+u3 x1
+u3 x2
+.end

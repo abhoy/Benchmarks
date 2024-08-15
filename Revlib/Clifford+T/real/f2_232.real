@@ -1,0 +1,1211 @@
+.version 1.0
+.numvars 8
+.variables x0 x1 x2 x3 x4 x5 x6 x7
+.begin
+x x0
+h x1
+p x0
+p x2
+p x1
+t2 x2 x0
+t2 x1 x2
+t2 x0 x1
+p+ x2
+t2 x0 x2
+p+ x0
+p+ x2
+p x1
+t2 x1 x2
+t2 x0 x1
+t2 x2 x0
+h x1
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x2
+p x3
+p x5
+t2 x3 x2
+t2 x5 x3
+t2 x2 x5
+p+ x3
+t2 x2 x3
+p+ x2
+p+ x3
+p x5
+t2 x5 x3
+t2 x2 x5
+t2 x3 x2
+h x5
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x5
+p x2
+p x3
+p x5
+t2 x3 x2
+t2 x5 x3
+t2 x2 x5
+p+ x3
+t2 x2 x3
+p+ x2
+p+ x3
+p x5
+t2 x5 x3
+t2 x2 x5
+t2 x3 x2
+h x5
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x3
+p x2
+p x5
+p x3
+t2 x5 x2
+t2 x3 x5
+t2 x2 x3
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x3
+t2 x3 x5
+t2 x2 x3
+t2 x5 x2
+h x3
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x3
+p x2
+p x5
+p x3
+t2 x5 x2
+t2 x3 x5
+t2 x2 x3
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x3
+t2 x3 x5
+t2 x2 x3
+t2 x5 x2
+h x3
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x1
+p x2
+p x5
+p x1
+t2 x5 x2
+t2 x1 x5
+t2 x2 x1
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x1
+t2 x1 x5
+t2 x2 x1
+t2 x5 x2
+h x1
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x1
+p x2
+p x5
+p x1
+t2 x5 x2
+t2 x1 x5
+t2 x2 x1
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x1
+t2 x1 x5
+t2 x2 x1
+t2 x5 x2
+h x1
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x5
+p x0
+p x6
+p x5
+t2 x6 x0
+t2 x5 x6
+t2 x0 x5
+p+ x6
+t2 x0 x6
+p+ x0
+p+ x6
+p x5
+t2 x5 x6
+t2 x0 x5
+t2 x6 x0
+h x5
+x x0
+x x6
+x x2
+h x3
+p x2
+p x5
+p x3
+t2 x5 x2
+t2 x3 x5
+t2 x2 x3
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x3
+t2 x3 x5
+t2 x2 x3
+t2 x5 x2
+h x3
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x3
+p x2
+p x5
+p x3
+t2 x5 x2
+t2 x3 x5
+t2 x2 x3
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x3
+t2 x3 x5
+t2 x2 x3
+t2 x5 x2
+h x3
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x5
+p x6
+p x7
+p x5
+t2 x7 x6
+t2 x5 x7
+t2 x6 x5
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x5
+t2 x5 x7
+t2 x6 x5
+t2 x7 x6
+h x5
+h x7
+p x2
+p x5
+p x7
+t2 x5 x2
+t2 x7 x5
+t2 x2 x7
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x7
+t2 x7 x5
+t2 x2 x7
+t2 x5 x2
+h x7
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x7
+p x2
+p x5
+p x7
+t2 x5 x2
+t2 x7 x5
+t2 x2 x7
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x7
+t2 x7 x5
+t2 x2 x7
+t2 x5 x2
+h x7
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+x x4
+h x5
+p x2
+p x3
+p x5
+t2 x3 x2
+t2 x5 x3
+t2 x2 x5
+p+ x3
+t2 x2 x3
+p+ x2
+p+ x3
+p x5
+t2 x5 x3
+t2 x2 x5
+t2 x3 x2
+h x5
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x5
+p x2
+p x3
+p x5
+t2 x3 x2
+t2 x5 x3
+t2 x2 x5
+p+ x3
+t2 x2 x3
+p+ x2
+p+ x3
+p x5
+t2 x5 x3
+t2 x2 x5
+t2 x3 x2
+h x5
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x7
+p x0
+p x4
+p x7
+t2 x4 x0
+t2 x7 x4
+t2 x0 x7
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x7
+t2 x7 x4
+t2 x0 x7
+t2 x4 x0
+h x7
+h x3
+p x6
+p x7
+p x3
+t2 x7 x6
+t2 x3 x7
+t2 x6 x3
+p+ x7
+t2 x6 x7
+p+ x6
+p+ x7
+p x3
+t2 x3 x7
+t2 x6 x3
+t2 x7 x6
+h x3
+h x5
+p x2
+p x6
+p x5
+t2 x6 x2
+t2 x5 x6
+t2 x2 x5
+p+ x6
+t2 x2 x6
+p+ x2
+p+ x6
+p x5
+t2 x5 x6
+t2 x2 x5
+t2 x6 x2
+h x5
+h x6
+p x0
+p x4
+p x6
+t2 x4 x0
+t2 x6 x4
+t2 x0 x6
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x6
+t2 x6 x4
+t2 x0 x6
+t2 x4 x0
+h x6
+h x5
+p x2
+p x6
+p x5
+t2 x6 x2
+t2 x5 x6
+t2 x2 x5
+p+ x6
+t2 x2 x6
+p+ x2
+p+ x6
+p x5
+t2 x5 x6
+t2 x2 x5
+t2 x6 x2
+h x5
+h x6
+p x0
+p x4
+p x6
+t2 x4 x0
+t2 x6 x4
+t2 x0 x6
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x6
+t2 x6 x4
+t2 x0 x6
+t2 x4 x0
+h x6
+h x7
+p x2
+p x6
+p x7
+t2 x6 x2
+t2 x7 x6
+t2 x2 x7
+p+ x6
+t2 x2 x6
+p+ x2
+p+ x6
+p x7
+t2 x7 x6
+t2 x2 x7
+t2 x6 x2
+h x7
+h x6
+p x0
+p x4
+p x6
+t2 x4 x0
+t2 x6 x4
+t2 x0 x6
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x6
+t2 x6 x4
+t2 x0 x6
+t2 x4 x0
+h x6
+h x7
+p x2
+p x6
+p x7
+t2 x6 x2
+t2 x7 x6
+t2 x2 x7
+p+ x6
+t2 x2 x6
+p+ x2
+p+ x6
+p x7
+t2 x7 x6
+t2 x2 x7
+t2 x6 x2
+h x7
+h x6
+p x0
+p x4
+p x6
+t2 x4 x0
+t2 x6 x4
+t2 x0 x6
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x6
+t2 x6 x4
+t2 x0 x6
+t2 x4 x0
+h x6
+x x2
+h x7
+p x2
+p x5
+p x7
+t2 x5 x2
+t2 x7 x5
+t2 x2 x7
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x7
+t2 x7 x5
+t2 x2 x7
+t2 x5 x2
+h x7
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x7
+p x2
+p x5
+p x7
+t2 x5 x2
+t2 x7 x5
+t2 x2 x7
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x7
+t2 x7 x5
+t2 x2 x7
+t2 x5 x2
+h x7
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x1
+p x2
+p x5
+p x1
+t2 x5 x2
+t2 x1 x5
+t2 x2 x1
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x1
+t2 x1 x5
+t2 x2 x1
+t2 x5 x2
+h x1
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x1
+p x2
+p x5
+p x1
+t2 x5 x2
+t2 x1 x5
+t2 x2 x1
+p+ x5
+t2 x2 x5
+p+ x2
+p+ x5
+p x1
+t2 x1 x5
+t2 x2 x1
+t2 x5 x2
+h x1
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+h x3
+p x0
+p x4
+p x3
+t2 x4 x0
+t2 x3 x4
+t2 x0 x3
+p+ x4
+t2 x0 x4
+p+ x0
+p+ x4
+p x3
+t2 x3 x4
+t2 x0 x3
+t2 x4 x0
+h x3
+h x5
+p x6
+p x3
+p x5
+t2 x3 x6
+t2 x5 x3
+t2 x6 x5
+p+ x3
+t2 x6 x3
+p+ x6
+p+ x3
+p x5
+t2 x5 x3
+t2 x6 x5
+t2 x3 x6
+h x5
+.end
